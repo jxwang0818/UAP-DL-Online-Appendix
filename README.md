@@ -2,7 +2,7 @@
 
 This repository contains the online appendix for the manuscript:
 
-**User Attention Proxy as Knowledge Router: A Novel Deep Learning Method for Adaptive Knowledge Exploration and Exploitation in the LLM**
+**User Attention Proxy as a Knowledge Router: A Novel Deep Learning Framework for Adaptive Knowledge Exploration and Exploitation in LLMs**
 
 ## Contents
 
@@ -10,11 +10,13 @@ This repository contains the online appendix for the manuscript:
 - Online Appendix B: Statistical Significance Test Results
 - Online Appendix C: Explanatory Analyses
 - Online Appendix D: Inference Efficiency Analysis
+- Online Appendix E: Spectral Justification of the Diversity-Based Graph Filtering
+- Online Appendix F: Cross-Fold Near-Duplicate Question Analysis
 
 
 ## Version
 
-Version 1.0, July 2026.
+Version 2.0, September 2026.
 
 ## Anonymity Statement
 
